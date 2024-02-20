@@ -1,6 +1,6 @@
 # MandaCaru Broker API
 
-# CONTEXTULIZANDO
+# CONTEXTUALIZANDO
 
 HOME BROKERS referem-se a plataformas digitas uqe possibilitam a usuários individuais realizar operações financeiras, como compra e venda de ações
 diretamente de seu dispositivo. Essas plataformas são cruciais para democratizar o acesso ao mercado financeiro.
