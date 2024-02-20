@@ -1,5 +1,10 @@
 # MandaCaru Broker API
 
+# CONTEXTULIZANDO
+
+HOME BROKERS referem-se a plataformas digitas uqe possibilitam a usuários individuais realizar operações financeiras, como compra e venda de ações
+diretamente de seu dispositivo. Essas plataformas são cruciais para democratizar o acesso ao mercado financeiro.
+
 ## Descrição
 A Mandacaru Broker API é uma aplicação Spring Boot que fornece operações CRUD (Create, Read, Update, Delete) para gerenciar informações sobre ações (stocks).
 
@@ -83,6 +88,10 @@ DELETE /stocks/{id}
 - Spring Data JPA
 - Maven
 - PostgreSQL
+- Mockito
+- Checkstyle
+- JUnit
+- Sonar Lint
 
 ## Contribuições
 Contribuições são bem-vindas!
